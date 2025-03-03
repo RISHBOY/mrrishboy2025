@@ -203,7 +203,7 @@ nav ul li a:hover {
 
 .percentage2 {
     position: absolute;
-    right: 350px;
+    right: 300px;
     top: 50%;
     transform: translateY(-50%);
     font-size: 1.2rem;
